@@ -23,6 +23,8 @@ Introducing CROSSFINFTHub, a cutting-edge NFT marketplace forged on the CROSSFI 
 
 🔒 **Security and Transparency**: Rest assured with the highest level of security and openness, thanks to the robust CROSSFI network and the Audited contracts used on our platform. Your CROSSFIs are in safe hands.
 
+## Demo Video 
+
 ## Begin Your NFT Journey 🚀
 
 Kickstart your adventure in the world of NFTs with CROSSFINFTHub by following these simple steps:
